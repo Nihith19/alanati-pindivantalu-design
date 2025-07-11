@@ -22,10 +22,11 @@ Designed an intuitive, responsive website with mobile-first thinking, enabling e
 ## 🖼️ Screenshots
 [Alanati Pindivantalu.zip](https://github.com/user-attachments/files/21182280/Alanati.Pindivantalu.zip)
 
+## 🔗 Figma Design Link
 
-## 🔗 Figma Link
-[View Full Design on Figma]([https://www.figma.com/your-link-here](https://www.figma.com/proto/T9UnqrC732h9wMsoEKG8Em/Alanati-Pindivantalu?page-id=88%3A44052&node-id=88-44053&p=f&viewport=350%2C297%2C0.18&t=whMJ2QM3SuJkFyCB-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=88%3A44053))
+👉 [View Full Design on Figma](https://www.figma.com/proto/FFaarc6Cb1Jupu0OB1B2UH/Alanati-Pindivantalu?page-id=88%3A44052&node-id=88-44053&viewport=-1196%2C429%2C0.14&t=ehdb7Cchux1vjifB-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=88%3A44053)
 
 ## 👨‍🎨 Designed By
 **Kollapudi Nihith**  
 [LinkedIn](https://linkedin.com/in/kollapudi-nihith)
+
